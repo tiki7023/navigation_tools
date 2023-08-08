@@ -7,7 +7,7 @@ with open('option.txt', 'r',encoding='utf-8') as f:
     for line in lines:
         options.append(line.strip().split())
 
-with open("file.html", "r",encoding='utf-8') as f:
+with open("file.html", "r", encoding='utf-8') as f:
     content = f.read()
 
 html = ''
@@ -32,3 +32,6 @@ for i in range(len(options)):
     html = html+content
 
 print(html)
+
+with open('result.txt', 'w',encoding='utf-8') as f:
+    f.write(html)
