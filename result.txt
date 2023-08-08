@@ -1,8 +1,39 @@
+
 <div class="col-sm-3">
-    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('www.zhihu.com', '_blank')" data-toggle="www.zhihu.com">
+    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://www.bilibili.com', '_blank')" data-toggle="https://www.bilibili.com">
         <div class="xe-comment-entry">
             <a class="xe-user-img">
-                <img data-src="https://static.zhihu.com/heifetz/favicon.ico" class="lozad img-circle" width="40">
+                <img data-src="https://api.iowen.cn/favicon/www.bilibili.com.png" class="lozad img-circle" width="40">
+            </a>
+            <div class="xe-comment">
+                <a href="#" class="xe-user-name overflowClip_1">
+                    <strong>哔哩哔哩</strong>
+                </a>
+                <p class="overflowClip_2">bilibili是国内知名的视频弹幕网站</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-sm-3">
+    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://mail.qq.com/', '_blank')" data-toggle="https://mail.qq.com/">
+        <div class="xe-comment-entry">
+            <a class="xe-user-img">
+                <img data-src="https://api.iowen.cn/favicon/mail.qq.com.png" class="lozad img-circle" width="40">
+            </a>
+            <div class="xe-comment">
+                <a href="#" class="xe-user-name overflowClip_1">
+                    <strong>QQ邮箱</strong>
+                </a>
+                <p class="overflowClip_2">QQ邮箱，常联系</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-sm-3">
+    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://www.zhihu.com', '_blank')" data-toggle="https://www.zhihu.com">
+        <div class="xe-comment-entry">
+            <a class="xe-user-img">
+                <img data-src="https://api.iowen.cn/favicon/www.zhihu.com.png" class="lozad img-circle" width="40">
             </a>
             <div class="xe-comment">
                 <a href="#" class="xe-user-name overflowClip_1">
@@ -12,213 +43,48 @@
             </div>
         </div>
     </div>
-</div><div class="col-sm-3">
-    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('www.zhihu.com', '_blank')" data-toggle="www.zhihu.com">
+</div>
+<div class="col-sm-3">
+    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://www.jd.com', '_blank')" data-toggle="https://www.jd.com">
         <div class="xe-comment-entry">
             <a class="xe-user-img">
-                <img data-src="https://static.zhihu.com/heifetz/favicon.ico" class="lozad img-circle" width="40">
+                <img data-src="https://api.iowen.cn/favicon/www.jd.com.png" class="lozad img-circle" width="40">
             </a>
             <div class="xe-comment">
                 <a href="#" class="xe-user-name overflowClip_1">
-                    <strong>知乎</strong>
+                    <strong>京东</strong>
                 </a>
-                <p class="overflowClip_2">知乎都知道</p>
+                <p class="overflowClip_2">专业的综合网上购物商城</p>
             </div>
         </div>
     </div>
-</div><div class="col-sm-3">
-    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('www.zhihu.com', '_blank')" data-toggle="www.zhihu.com">
+</div>
+<div class="col-sm-3">
+    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://www.taobao.com', '_blank')" data-toggle="https://www.taobao.com">
         <div class="xe-comment-entry">
             <a class="xe-user-img">
-                <img data-src="https://static.zhihu.com/heifetz/favicon.ico" class="lozad img-circle" width="40">
+                <img data-src="https://api.iowen.cn/favicon/www.taobao.com.png" class="lozad img-circle" width="40">
             </a>
             <div class="xe-comment">
                 <a href="#" class="xe-user-name overflowClip_1">
-                    <strong>知乎</strong>
+                    <strong>淘宝</strong>
                 </a>
-                <p class="overflowClip_2">知乎都知道</p>
+                <p class="overflowClip_2">亚洲较大的网上交易平台</p>
             </div>
         </div>
     </div>
-</div><div class="col-sm-3">
-    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('www.zhihu.com', '_blank')" data-toggle="www.zhihu.com">
+</div>
+<div class="col-sm-3">
+    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://kgithub.com/', '_blank')" data-toggle="https://kgithub.com/">
         <div class="xe-comment-entry">
             <a class="xe-user-img">
-                <img data-src="https://static.zhihu.com/heifetz/favicon.ico" class="lozad img-circle" width="40">
+                <img data-src="https://api.iowen.cn/favicon/github.com.png" class="lozad img-circle" width="40">
             </a>
             <div class="xe-comment">
                 <a href="#" class="xe-user-name overflowClip_1">
-                    <strong>知乎</strong>
+                    <strong>Github镜像站</strong>
                 </a>
-                <p class="overflowClip_2">知乎都知道</p>
-            </div>
-        </div>
-    </div>
-</div><div class="col-sm-3">
-    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('www.zhihu.com', '_blank')" data-toggle="www.zhihu.com">
-        <div class="xe-comment-entry">
-            <a class="xe-user-img">
-                <img data-src="https://static.zhihu.com/heifetz/favicon.ico" class="lozad img-circle" width="40">
-            </a>
-            <div class="xe-comment">
-                <a href="#" class="xe-user-name overflowClip_1">
-                    <strong>知乎</strong>
-                </a>
-                <p class="overflowClip_2">知乎都知道</p>
-            </div>
-        </div>
-    </div>
-</div><div class="col-sm-3">
-    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('www.zhihu.com', '_blank')" data-toggle="www.zhihu.com">
-        <div class="xe-comment-entry">
-            <a class="xe-user-img">
-                <img data-src="https://static.zhihu.com/heifetz/favicon.ico" class="lozad img-circle" width="40">
-            </a>
-            <div class="xe-comment">
-                <a href="#" class="xe-user-name overflowClip_1">
-                    <strong>知乎</strong>
-                </a>
-                <p class="overflowClip_2">知乎都知道</p>
-            </div>
-        </div>
-    </div>
-</div><div class="col-sm-3">
-    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('www.zhihu.com', '_blank')" data-toggle="www.zhihu.com">
-        <div class="xe-comment-entry">
-            <a class="xe-user-img">
-                <img data-src="https://static.zhihu.com/heifetz/favicon.ico" class="lozad img-circle" width="40">
-            </a>
-            <div class="xe-comment">
-                <a href="#" class="xe-user-name overflowClip_1">
-                    <strong>知乎</strong>
-                </a>
-                <p class="overflowClip_2">知乎都知道</p>
-            </div>
-        </div>
-    </div>
-</div><div class="col-sm-3">
-    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('www.zhihu.com', '_blank')" data-toggle="www.zhihu.com">
-        <div class="xe-comment-entry">
-            <a class="xe-user-img">
-                <img data-src="https://static.zhihu.com/heifetz/favicon.ico" class="lozad img-circle" width="40">
-            </a>
-            <div class="xe-comment">
-                <a href="#" class="xe-user-name overflowClip_1">
-                    <strong>知乎</strong>
-                </a>
-                <p class="overflowClip_2">知乎都知道</p>
-            </div>
-        </div>
-    </div>
-</div><div class="col-sm-3">
-    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('www.zhihu.com', '_blank')" data-toggle="www.zhihu.com">
-        <div class="xe-comment-entry">
-            <a class="xe-user-img">
-                <img data-src="https://static.zhihu.com/heifetz/favicon.ico" class="lozad img-circle" width="40">
-            </a>
-            <div class="xe-comment">
-                <a href="#" class="xe-user-name overflowClip_1">
-                    <strong>知乎</strong>
-                </a>
-                <p class="overflowClip_2">知乎都知道</p>
-            </div>
-        </div>
-    </div>
-</div><div class="col-sm-3">
-    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('www.zhihu.com', '_blank')" data-toggle="www.zhihu.com">
-        <div class="xe-comment-entry">
-            <a class="xe-user-img">
-                <img data-src="https://static.zhihu.com/heifetz/favicon.ico" class="lozad img-circle" width="40">
-            </a>
-            <div class="xe-comment">
-                <a href="#" class="xe-user-name overflowClip_1">
-                    <strong>知乎</strong>
-                </a>
-                <p class="overflowClip_2">知乎都知道</p>
-            </div>
-        </div>
-    </div>
-</div><div class="col-sm-3">
-    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('www.zhihu.com', '_blank')" data-toggle="www.zhihu.com">
-        <div class="xe-comment-entry">
-            <a class="xe-user-img">
-                <img data-src="https://static.zhihu.com/heifetz/favicon.ico" class="lozad img-circle" width="40">
-            </a>
-            <div class="xe-comment">
-                <a href="#" class="xe-user-name overflowClip_1">
-                    <strong>知乎</strong>
-                </a>
-                <p class="overflowClip_2">知乎都知道</p>
-            </div>
-        </div>
-    </div>
-</div><div class="col-sm-3">
-    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('www.zhihu.com', '_blank')" data-toggle="www.zhihu.com">
-        <div class="xe-comment-entry">
-            <a class="xe-user-img">
-                <img data-src="https://static.zhihu.com/heifetz/favicon.ico" class="lozad img-circle" width="40">
-            </a>
-            <div class="xe-comment">
-                <a href="#" class="xe-user-name overflowClip_1">
-                    <strong>知乎</strong>
-                </a>
-                <p class="overflowClip_2">知乎都知道</p>
-            </div>
-        </div>
-    </div>
-</div><div class="col-sm-3">
-    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('www.zhihu.com', '_blank')" data-toggle="www.zhihu.com">
-        <div class="xe-comment-entry">
-            <a class="xe-user-img">
-                <img data-src="https://static.zhihu.com/heifetz/favicon.ico" class="lozad img-circle" width="40">
-            </a>
-            <div class="xe-comment">
-                <a href="#" class="xe-user-name overflowClip_1">
-                    <strong>知乎</strong>
-                </a>
-                <p class="overflowClip_2">知乎都知道</p>
-            </div>
-        </div>
-    </div>
-</div><div class="col-sm-3">
-    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('www.zhihu.com', '_blank')" data-toggle="www.zhihu.com">
-        <div class="xe-comment-entry">
-            <a class="xe-user-img">
-                <img data-src="https://static.zhihu.com/heifetz/favicon.ico" class="lozad img-circle" width="40">
-            </a>
-            <div class="xe-comment">
-                <a href="#" class="xe-user-name overflowClip_1">
-                    <strong>知乎</strong>
-                </a>
-                <p class="overflowClip_2">知乎都知道</p>
-            </div>
-        </div>
-    </div>
-</div><div class="col-sm-3">
-    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('www.zhihu.com', '_blank')" data-toggle="www.zhihu.com">
-        <div class="xe-comment-entry">
-            <a class="xe-user-img">
-                <img data-src="https://static.zhihu.com/heifetz/favicon.ico" class="lozad img-circle" width="40">
-            </a>
-            <div class="xe-comment">
-                <a href="#" class="xe-user-name overflowClip_1">
-                    <strong>知乎</strong>
-                </a>
-                <p class="overflowClip_2">知乎都知道</p>
-            </div>
-        </div>
-    </div>
-</div><div class="col-sm-3">
-    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('www.zhihu.com', '_blank')" data-toggle="www.zhihu.com">
-        <div class="xe-comment-entry">
-            <a class="xe-user-img">
-                <img data-src="https://static.zhihu.com/heifetz/favicon.ico" class="lozad img-circle" width="40">
-            </a>
-            <div class="xe-comment">
-                <a href="#" class="xe-user-name overflowClip_1">
-                    <strong>知乎</strong>
-                </a>
-                <p class="overflowClip_2">知乎都知道</p>
+                <p class="overflowClip_2">加速Github访问</p>
             </div>
         </div>
     </div>

@@ -6,6 +6,7 @@ with open('option.txt', 'r',encoding='utf-8') as f:
     options = []
     for line in lines:
         options.append(line.strip().split())
+    print(options)
 
 with open("file.html", "r", encoding='utf-8') as f:
     content = f.read()
@@ -29,7 +30,7 @@ for i in range(len(options)):
     selected_option = options[i][3]
     content = re.sub(r'overflowClip_2">.*?</p>', f'overflowClip_2">{selected_option}</p>', content)
 
-    html = html+content
+    html = html+'\n'+content
 
 print(html)
 
