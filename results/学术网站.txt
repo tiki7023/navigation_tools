@@ -1,0 +1,31 @@
+<div class="col-sm-3">
+    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://www.iprdb.com/', '_blank')" data-toggle="https://www.iprdb.com/">
+        <div class="xe-comment-entry">
+            <a class="xe-user-img">
+                <img data-src="https://www.iprdb.com/favicon.ico" class="lozad img-circle" width="40">
+            </a>
+            <div class="xe-comment">
+                <a href="#" class="xe-user-name overflowClip_1">
+                    <strong>知嘟嘟</strong>
+                </a>
+                <p class="overflowClip_2">专利查询下载平台</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="col-sm-3">
+    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://simpletex.cn/ai/latex_ocr', '_blank')" data-toggle="https://simpletex.cn/ai/latex_ocr">
+        <div class="xe-comment-entry">
+            <a class="xe-user-img">
+                <img data-src="https://simpletex.cn/simpletex.ico" class="lozad img-circle" width="40">
+            </a>
+            <div class="xe-comment">
+                <a href="#" class="xe-user-name overflowClip_1">
+                    <strong>公式识别</strong>
+                </a>
+                <p class="overflowClip_2">识别公式，论文小助手</p>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,3 @@
+https://www.byhy.net/ https://cdn2.byhy.net/imgs/logo01.png 白夜黑羽 PyQT教程
+https://www.runoob.com/python/python-tutorial.html https://static.runoob.com/images/favicon.ico 菜鸟教程 多语言免费教程
+https://kgithub.com/ https://api.iowen.cn/favicon/github.com.png Github镜像站 加速Github访问

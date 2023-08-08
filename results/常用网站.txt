@@ -1,0 +1,79 @@
+<div class="col-sm-3">
+    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://www.jd.com', '_blank')" data-toggle="https://www.jd.com">
+        <div class="xe-comment-entry">
+            <a class="xe-user-img">
+                <img data-src="https://ts1.cn.mm.bing.net/th/id/R-C.15fd4dc0ed8a7287711ae5c91ef85e8b?rik=DABYJ3Lr9c%2fZKA&riu=http%3a%2f%2fimg.cndesign.com%2fupload%2fnews%2f20170828%2fd544468192c64a2fbbcd963e5c94488a.png&ehk=054MVvU7fcmrnObe3Fb3%2bLoccI5JGZwgNEbairtCLsg%3d&risl=&pid=ImgRaw&r=0" class="lozad img-circle" width="40">
+            </a>
+            <div class="xe-comment">
+                <a href="#" class="xe-user-name overflowClip_1">
+                    <strong>京东</strong>
+                </a>
+                <p class="overflowClip_2">专业的综合网上购物商城</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="col-sm-3">
+    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://www.taobao.com', '_blank')" data-toggle="https://www.taobao.com">
+        <div class="xe-comment-entry">
+            <a class="xe-user-img">
+                <img data-src="https://www.taobao.com/favicon.ico" class="lozad img-circle" width="40">
+            </a>
+            <div class="xe-comment">
+                <a href="#" class="xe-user-name overflowClip_1">
+                    <strong>淘宝</strong>
+                </a>
+                <p class="overflowClip_2">亚洲较大的网上交易平台</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="col-sm-3">
+    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://ikuuu.org/user', '_blank')" data-toggle="https://ikuuu.org/user">
+        <div class="xe-comment-entry">
+            <a class="xe-user-img">
+                <img data-src="https://ts1.cn.mm.bing.net/th/id/R-C.7b8fff215d912df52f62885db2962d8e?rik=xIae3JeN4tnuYA&riu=http%3a%2f%2fstatics.888ppt.com%2fUpload%2fthumb%2f20200601%2fa05027a55a96f171.jpg&ehk=e3aPejt9796rYT3xW%2fiGXufgT8doJa3GpkOF4tYnmk4%3d&risl=&pid=ImgRaw&r=0" class="lozad img-circle" width="40">
+            </a>
+            <div class="xe-comment">
+                <a href="#" class="xe-user-name overflowClip_1">
+                    <strong>ikuuu加速器</strong>
+                </a>
+                <p class="overflowClip_2">"欢迎使用</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="col-sm-3">
+    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://greasyfork.org/zh-CN', '_blank')" data-toggle="https://greasyfork.org/zh-CN">
+        <div class="xe-comment-entry">
+            <a class="xe-user-img">
+                <img data-src="https://tse4-mm.cn.bing.net/th/id/OIP-C.-tplgk_bDmwybjHm_H9VawAAAA?pid=ImgDet&rs=1" class="lozad img-circle" width="40">
+            </a>
+            <div class="xe-comment">
+                <a href="#" class="xe-user-name overflowClip_1">
+                    <strong>GreasyFork</strong>
+                </a>
+                <p class="overflowClip_2">这里是一个提供用户脚本的网站</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="col-sm-3">
+    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://github.com/', '_blank')" data-toggle="https://github.com/">
+        <div class="xe-comment-entry">
+            <a class="xe-user-img">
+                <img data-src="https://api.iowen.cn/favicon/github.com.png" class="lozad img-circle" width="40">
+            </a>
+            <div class="xe-comment">
+                <a href="#" class="xe-user-name overflowClip_1">
+                    <strong>Github</strong>
+                </a>
+                <p class="overflowClip_2">全球最大的同性交友网站</p>
+            </div>
+        </div>
+    </div>
+</div>

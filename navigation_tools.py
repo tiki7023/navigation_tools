@@ -1,43 +1,44 @@
 import re
 import pandas as pd
+sheets = ['常用网站','办公工具','视频网站','资源搜索','学校网站','学术网站','游戏相关','程序员','社交网站','数码跑分','导航页']
+for i in range(len(sheets)):
+    df = pd.read_excel('option.xlsx',sheet_name = sheets[i])
+    df.to_csv('.\website\{name}.txt'.format(name = sheets[i]), header=None, sep=' ', index=False)
 
-df = pd.read_excel('option.xlsx')
-df.to_csv('option.txt', header=None, sep=' ', index=False)
+    with open('.\website\{name}.txt'.format(name = sheets[i]), 'r',encoding='utf-8') as f:
+        lines = f.readlines()
+        options = []
+        for line in lines:
+            options.append(line.strip().split())
+        print(options)
 
-with open('option.txt', 'r',encoding='utf-8') as f:
-    lines = f.readlines()
-    options = []
-    for line in lines:
-        options.append(line.strip().split())
-    print(options)
+    with open("file.html", "r", encoding='utf-8') as f:
+        content = f.read()
 
-with open("file.html", "r", encoding='utf-8') as f:
-    content = f.read()
+    html = ''
 
-html = ''
+    for j in range(len(options)):
+        selected_option = options[j][0]
+        content = re.sub(r"'.*?', '_blank'", f"'{selected_option}', '_blank'", content)
 
-for i in range(len(options)):
-    selected_option = options[i][0]
-    content = re.sub(r"'.*?', '_blank'", f"'{selected_option}', '_blank'", content)
-
-    selected_option = options[i][0]
-    content = re.sub(r'le=".*?">', f'le="{selected_option}">', content)
+        selected_option = options[j][0]
+        content = re.sub(r'le=".*?">', f'le="{selected_option}">', content)
 
 
-    selected_option = options[i][1]
-    content = re.sub(r'src=".*?" class="', f'src="{selected_option}" class="', content)
+        selected_option = options[j][1]
+        content = re.sub(r'src=".*?" class="', f'src="{selected_option}" class="', content)
 
-    selected_option = options[i][2]
-    content = re.sub(r"<strong>.*?</strong>", f"<strong>{selected_option}</strong>", content)
+        selected_option = options[j][2]
+        content = re.sub(r"<strong>.*?</strong>", f"<strong>{selected_option}</strong>", content)
 
-    selected_option = options[i][3]
-    content = re.sub(r'overflowClip_2">.*?</p>', f'overflowClip_2">{selected_option}</p>', content)
-    if html == '':
-        html = content
-    else:
-        html = html + '\n' +content
+        selected_option = options[j][3]
+        content = re.sub(r'overflowClip_2">.*?</p>', f'overflowClip_2">{selected_option}</p>', content)
+        if html == '':
+            html = content
+        else:
+            html = html + '\n' +content
 
-print(html)
+    print(html)
 
-with open('result.txt', 'w',encoding='utf-8') as f:
-    f.write(html)
+    with open(r'.\results\{name}.txt'.format(name = sheets[i]), 'w',encoding='utf-8') as f:
+        f.write(html)
