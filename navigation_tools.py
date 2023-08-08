@@ -1,5 +1,8 @@
 import re
+import pandas as pd
 
+df = pd.read_excel('option.xlsx')
+df.to_csv('option.txt', header=None, sep=' ', index=False)
 
 with open('option.txt', 'r',encoding='utf-8') as f:
     lines = f.readlines()
@@ -29,8 +32,10 @@ for i in range(len(options)):
 
     selected_option = options[i][3]
     content = re.sub(r'overflowClip_2">.*?</p>', f'overflowClip_2">{selected_option}</p>', content)
-
-    html = html+'\n'+content
+    if html == '':
+        html = content
+    else:
+        html = html + '\n' +content
 
 print(html)
 
