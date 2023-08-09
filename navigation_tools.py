@@ -1,6 +1,7 @@
 import re
 import pandas as pd
 sheets = ['常用网站','办公工具','视频网站','资源搜索','学校网站','学术网站','游戏相关','程序员','社交网站','数码跑分','导航页']
+result_total = ''
 for i in range(len(sheets)):
     df = pd.read_excel('option.xlsx',sheet_name = sheets[i])
     df.to_csv('.\website\{name}.txt'.format(name = sheets[i]), header=None, sep=' ', index=False)
@@ -14,7 +15,6 @@ for i in range(len(sheets)):
 
     with open("file.html", "r", encoding='utf-8') as f:
         content = f.read()
-
     html = ''
 
     for j in range(len(options)):
@@ -37,8 +37,13 @@ for i in range(len(sheets)):
             html = content
         else:
             html = html + '\n' +content
+    html = '<!-- '+sheets[i]+' -->'+'\n'+'<h4 class="text-gray"><i class="linecons-tag" style="margin-right: 7px;" id="'+sheets[i]+'"></i>'+sheets[i]+'</h4>'+'\n'+'<div class="row">'+'\n'+html
+    html = html+'<!-- END'+sheets[i]+' -->'
 
+    result_total =result_total+'\n'+html
     print(html)
 
     with open(r'.\results\{name}.txt'.format(name = sheets[i]), 'w',encoding='utf-8') as f:
         f.write(html)
+with open(r'.\results\result_total.txt', 'w',encoding='utf-8') as f:
+    f.write(result_total)

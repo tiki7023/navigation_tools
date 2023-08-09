@@ -1,31 +1,35 @@
-<div class="col-sm-3">
-    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://epicgames.com/', '_blank')" data-toggle="https://epicgames.com/">
-        <div class="xe-comment-entry">
-            <a class="xe-user-img">
-                <img data-src="https://th.bing.com/th/id/OIP.3CL8GgA2FkF3zwaFPBfm_gHaHa?pid=ImgDet&w=900&h=900&rs=1" class="lozad img-circle" width="40">
-            </a>
-            <div class="xe-comment">
-                <a href="#" class="xe-user-name overflowClip_1">
-                    <strong>Epic</strong>
+<!-- 游戏相关 -->
+<h4 class="text-gray"><i class="linecons-tag" style="margin-right: 7px;" id="游戏相关"></i>游戏相关</h4>
+<div class="row">
+    <div class="col-sm-3">
+        <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://epicgames.com/', '_blank')" data-toggle="https://epicgames.com/">
+            <div class="xe-comment-entry">
+                <a class="xe-user-img">
+                    <img data-src="https://th.bing.com/th/id/OIP.3CL8GgA2FkF3zwaFPBfm_gHaHa?pid=ImgDet&w=900&h=900&rs=1" class="lozad img-circle" width="40">
                 </a>
-                <p class="overflowClip_2">欢迎来到Epic游戏商城</p>
+                <div class="xe-comment">
+                    <a href="#" class="xe-user-name overflowClip_1">
+                        <strong>Epic</strong>
+                    </a>
+                    <p class="overflowClip_2">欢迎来到Epic游戏商城</p>
+                </div>
             </div>
         </div>
     </div>
-</div>
 
-<div class="col-sm-3">
-    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://www.gamer520.com/pcgame', '_blank')" data-toggle="https://www.gamer520.com/pcgame">
-        <div class="xe-comment-entry">
-            <a class="xe-user-img">
-                <img data-src="https://ts1.cn.mm.bing.net/th/id/R-C.f7652dbd9d2b00eaf65f5113a5ef5f65?rik=XTsXbGuHMdwdJg&pid=ImgRaw&r=0" class="lozad img-circle" width="40">
-            </a>
-            <div class="xe-comment">
-                <a href="#" class="xe-user-name overflowClip_1">
-                    <strong>Switch520</strong>
+    <div class="col-sm-3">
+        <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://www.gamer520.com/pcgame', '_blank')" data-toggle="https://www.gamer520.com/pcgame">
+            <div class="xe-comment-entry">
+                <a class="xe-user-img">
+                    <img data-src="https://ts1.cn.mm.bing.net/th/id/R-C.f7652dbd9d2b00eaf65f5113a5ef5f65?rik=XTsXbGuHMdwdJg&pid=ImgRaw&r=0" class="lozad img-circle" width="40">
                 </a>
-                <p class="overflowClip_2">全球游戏交流中心</p>
+                <div class="xe-comment">
+                    <a href="#" class="xe-user-name overflowClip_1">
+                        <strong>Switch520</strong>
+                    </a>
+                    <p class="overflowClip_2">全球游戏交流中心</p>
+                </div>
             </div>
         </div>
     </div>
-</div>
+<!-- END游戏相关 -->

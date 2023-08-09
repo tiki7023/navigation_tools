@@ -1,47 +1,51 @@
-<div class="col-sm-3">
-    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('http://live.yj1211.work/index/home/recommend', '_blank')" data-toggle="http://live.yj1211.work/index/home/recommend">
-        <div class="xe-comment-entry">
-            <a class="xe-user-img">
-                <img data-src="http://live.yj1211.work/favicon.ico" class="lozad img-circle" width="40">
-            </a>
-            <div class="xe-comment">
-                <a href="#" class="xe-user-name overflowClip_1">
-                    <strong>直播聚合</strong>
+<!-- 视频网站 -->
+<h4 class="text-gray"><i class="linecons-tag" style="margin-right: 7px;" id="视频网站"></i>视频网站</h4>
+<div class="row">
+    <div class="col-sm-3">
+        <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('http://live.yj1211.work/index/home/recommend', '_blank')" data-toggle="http://live.yj1211.work/index/home/recommend">
+            <div class="xe-comment-entry">
+                <a class="xe-user-img">
+                    <img data-src="http://live.yj1211.work/favicon.ico" class="lozad img-circle" width="40">
                 </a>
-                <p class="overflowClip_2">一个整合国内多个直播平台内容的网站</p>
+                <div class="xe-comment">
+                    <a href="#" class="xe-user-name overflowClip_1">
+                        <strong>直播聚合</strong>
+                    </a>
+                    <p class="overflowClip_2">一个整合国内多个直播平台内容的网站</p>
+                </div>
             </div>
         </div>
     </div>
-</div>
 
-<div class="col-sm-3">
-    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://www.youtube.com/', '_blank')" data-toggle="https://www.youtube.com/">
-        <div class="xe-comment-entry">
-            <a class="xe-user-img">
-                <img data-src="https://ts3.cn.mm.bing.net/th?id=ODL.5d315fced472163fc5c72a3d76d17ea1&w=110&h=110&c=6&rs=1&qlt=90&o=6&pid=13.1" class="lozad img-circle" width="40">
-            </a>
-            <div class="xe-comment">
-                <a href="#" class="xe-user-name overflowClip_1">
-                    <strong>Youtube</strong>
+    <div class="col-sm-3">
+        <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://www.youtube.com/', '_blank')" data-toggle="https://www.youtube.com/">
+            <div class="xe-comment-entry">
+                <a class="xe-user-img">
+                    <img data-src="https://ts3.cn.mm.bing.net/th?id=ODL.5d315fced472163fc5c72a3d76d17ea1&w=110&h=110&c=6&rs=1&qlt=90&o=6&pid=13.1" class="lozad img-circle" width="40">
                 </a>
-                <p class="overflowClip_2">油管视频，最大的学习网站</p>
+                <div class="xe-comment">
+                    <a href="#" class="xe-user-name overflowClip_1">
+                        <strong>Youtube</strong>
+                    </a>
+                    <p class="overflowClip_2">油管视频，最大的学习网站</p>
+                </div>
             </div>
         </div>
     </div>
-</div>
 
-<div class="col-sm-3">
-    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://www.voflix.me/', '_blank')" data-toggle="https://www.voflix.me/">
-        <div class="xe-comment-entry">
-            <a class="xe-user-img">
-                <img data-src="https://gmu-download.oss-cn-beijing.aliyuncs.com/MTY1OTQ5MDQ1OTA4MiM3MDkjcG5n.png" class="lozad img-circle" width="40">
-            </a>
-            <div class="xe-comment">
-                <a href="#" class="xe-user-name overflowClip_1">
-                    <strong>VOFLIX视频</strong>
+    <div class="col-sm-3">
+        <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://www.voflix.me/', '_blank')" data-toggle="https://www.voflix.me/">
+            <div class="xe-comment-entry">
+                <a class="xe-user-img">
+                    <img data-src="https://gmu-download.oss-cn-beijing.aliyuncs.com/MTY1OTQ5MDQ1OTA4MiM3MDkjcG5n.png" class="lozad img-circle" width="40">
                 </a>
-                <p class="overflowClip_2">视频聚合软件</p>
+                <div class="xe-comment">
+                    <a href="#" class="xe-user-name overflowClip_1">
+                        <strong>VOFLIX视频</strong>
+                    </a>
+                    <p class="overflowClip_2">视频聚合软件</p>
+                </div>
             </div>
         </div>
     </div>
-</div>
+<!-- END视频网站 -->
