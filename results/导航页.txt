@@ -1,51 +1,49 @@
-<!-- 导航页 -->
 <h4 class="text-gray"><i class="linecons-tag" style="margin-right: 7px;" id="导航页"></i>导航页</h4>
 <div class="row">
-    <div class="col-sm-3">
-        <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://jubt12.xyz/cn/index.html', '_blank')" data-toggle="https://jubt12.xyz/cn/index.html">
-            <div class="xe-comment-entry">
-                <a class="xe-user-img">
-                    <img data-src="https://jubt12.xyz/favicon.ico?v=2" class="lozad img-circle" width="40">
+<div class="col-sm-3">
+    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://jubt12.xyz/cn/index.html', '_blank')" data-toggle="https://jubt12.xyz/cn/index.html">
+        <div class="xe-comment-entry">
+            <a class="xe-user-img">
+                <img data-src="https://jubt12.xyz/favicon.ico?v=2" class="lozad img-circle" width="40">
+            </a>
+            <div class="xe-comment">
+                <a href="#" class="xe-user-name overflowClip_1">
+                    <strong>聚BT</strong>
                 </a>
-                <div class="xe-comment">
-                    <a href="#" class="xe-user-name overflowClip_1">
-                        <strong>聚BT</strong>
-                    </a>
-                    <p class="overflowClip_2">很杂的导航网站</p>
-                </div>
+                <p class="overflowClip_2">很杂的导航网站</p>
             </div>
         </div>
     </div>
+</div>
 
-    <div class="col-sm-3">
-        <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://www.51kim.com/', '_blank')" data-toggle="https://www.51kim.com/">
-            <div class="xe-comment-entry">
-                <a class="xe-user-img">
-                    <img data-src="https://www.51kim.com/favicon.ico" class="lozad img-circle" width="40">
+<div class="col-sm-3">
+    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://www.51kim.com/', '_blank')" data-toggle="https://www.51kim.com/">
+        <div class="xe-comment-entry">
+            <a class="xe-user-img">
+                <img data-src="https://www.51kim.com/favicon.ico" class="lozad img-circle" width="40">
+            </a>
+            <div class="xe-comment">
+                <a href="#" class="xe-user-name overflowClip_1">
+                    <strong>氪主页</strong>
                 </a>
-                <div class="xe-comment">
-                    <a href="#" class="xe-user-name overflowClip_1">
-                        <strong>氪主页</strong>
-                    </a>
-                    <p class="overflowClip_2">简洁带搜索引擎的导航</p>
-                </div>
+                <p class="overflowClip_2">简洁带搜索引擎的导航</p>
             </div>
         </div>
     </div>
+</div>
 
-    <div class="col-sm-3">
-        <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://limestart.cn/', '_blank')" data-toggle="https://limestart.cn/">
-            <div class="xe-comment-entry">
-                <a class="xe-user-img">
-                    <img data-src="https://assets.retiehe.com/lime-apple-touch-icon.png" class="lozad img-circle" width="40">
+<div class="col-sm-3">
+    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://limestart.cn/', '_blank')" data-toggle="https://limestart.cn/">
+        <div class="xe-comment-entry">
+            <a class="xe-user-img">
+                <img data-src="https://assets.retiehe.com/lime-apple-touch-icon.png" class="lozad img-circle" width="40">
+            </a>
+            <div class="xe-comment">
+                <a href="#" class="xe-user-name overflowClip_1">
+                    <strong>青柠导航</strong>
                 </a>
-                <div class="xe-comment">
-                    <a href="#" class="xe-user-name overflowClip_1">
-                        <strong>青柠导航</strong>
-                    </a>
-                    <p class="overflowClip_2">主页导航</p>
-                </div>
+                <p class="overflowClip_2">主页导航</p>
             </div>
         </div>
     </div>
-<!-- END导航页 -->
+</div>
