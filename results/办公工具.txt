@@ -1,81 +1,81 @@
-<h4 class="text-gray"><i class="linecons-tag" style="margin-right: 7px;" id="办公工具"></i>办公工具</h4>
-<div class="row">
-<div class="col-sm-3">
-    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://mail.163.com/', '_blank')" data-toggle="https://mail.163.com/">
-        <div class="xe-comment-entry">
-            <a class="xe-user-img">
-                <img data-src="https://www.80wzbk.com/uploads/logo/20200909/20200909104816_763.png" class="lozad img-circle" width="40">
-            </a>
-            <div class="xe-comment">
-                <a href="#" class="xe-user-name overflowClip_1">
-                    <strong>163邮箱</strong>
-                </a>
-                <p class="overflowClip_2">163网易免费邮-你的专业电子邮局</p>
-            </div>
-        </div>
-    </div>
-</div>
+			<h4 class="text-gray"><i class="linecons-tag" style="margin-right: 7px;" id="办公工具"></i>办公工具</h4>
+			<div class="row">
+                <div class="col-sm-3">
+                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://mail.163.com/', '_blank')" data-toggle="https://mail.163.com/">
+                        <div class="xe-comment-entry">
+                            <a class="xe-user-img">
+                                <img data-src="https://www.80wzbk.com/uploads/logo/20200909/20200909104816_763.png" class="lozad img-circle" width="40">
+                            </a>
+                            <div class="xe-comment">
+                                <a href="#" class="xe-user-name overflowClip_1">
+                                    <strong>163邮箱</strong>
+                                </a>
+                                <p class="overflowClip_2">163网易免费邮-你的专业电子邮局</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
-<div class="col-sm-3">
-    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://www.zhixi.com/space', '_blank')" data-toggle="https://www.zhixi.com/space">
-        <div class="xe-comment-entry">
-            <a class="xe-user-img">
-                <img data-src="https://www.zhixi.com/favicon.ico" class="lozad img-circle" width="40">
-            </a>
-            <div class="xe-comment">
-                <a href="#" class="xe-user-name overflowClip_1">
-                    <strong>知悉思维导图</strong>
-                </a>
-                <p class="overflowClip_2">思维创造，积累每一个灵感的瞬间</p>
-            </div>
-        </div>
-    </div>
-</div>
+                <div class="col-sm-3">
+                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://www.zhixi.com/space', '_blank')" data-toggle="https://www.zhixi.com/space">
+                        <div class="xe-comment-entry">
+                            <a class="xe-user-img">
+                                <img data-src="https://www.zhixi.com/favicon.ico" class="lozad img-circle" width="40">
+                            </a>
+                            <div class="xe-comment">
+                                <a href="#" class="xe-user-name overflowClip_1">
+                                    <strong>知悉思维导图</strong>
+                                </a>
+                                <p class="overflowClip_2">思维创造，积累每一个灵感的瞬间</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
-<div class="col-sm-3">
-    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://ps.gaoding.com/#/', '_blank')" data-toggle="https://ps.gaoding.com/#/">
-        <div class="xe-comment-entry">
-            <a class="xe-user-img">
-                <img data-src="https://ps.gaoding.com/favicon.ico" class="lozad img-circle" width="40">
-            </a>
-            <div class="xe-comment">
-                <a href="#" class="xe-user-name overflowClip_1">
-                    <strong>稿定设计</strong>
-                </a>
-                <p class="overflowClip_2">在线PS软件</p>
-            </div>
-        </div>
-    </div>
-</div>
+                <div class="col-sm-3">
+                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://ps.gaoding.com/#/', '_blank')" data-toggle="https://ps.gaoding.com/#/">
+                        <div class="xe-comment-entry">
+                            <a class="xe-user-img">
+                                <img data-src="https://ps.gaoding.com/favicon.ico" class="lozad img-circle" width="40">
+                            </a>
+                            <div class="xe-comment">
+                                <a href="#" class="xe-user-name overflowClip_1">
+                                    <strong>稿定设计</strong>
+                                </a>
+                                <p class="overflowClip_2">在线PS软件</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
-<div class="col-sm-3">
-    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://www.deepl.com/translator', '_blank')" data-toggle="https://www.deepl.com/translator">
-        <div class="xe-comment-entry">
-            <a class="xe-user-img">
-                <img data-src="https://ts1.cn.mm.bing.net/th/id/R-C.7a334b929c912628c3a8b096e92a5df2?rik=fbELXhkW5iE%2f1g&pid=ImgRaw&r=0" class="lozad img-circle" width="40">
-            </a>
-            <div class="xe-comment">
-                <a href="#" class="xe-user-name overflowClip_1">
-                    <strong>DeepL翻译</strong>
-                </a>
-                <p class="overflowClip_2">使用DeepL应用程序，翻译更快捷</p>
-            </div>
-        </div>
-    </div>
-</div>
+                <div class="col-sm-3">
+                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://www.deepl.com/translator', '_blank')" data-toggle="https://www.deepl.com/translator">
+                        <div class="xe-comment-entry">
+                            <a class="xe-user-img">
+                                <img data-src="https://ts1.cn.mm.bing.net/th/id/R-C.7a334b929c912628c3a8b096e92a5df2?rik=fbELXhkW5iE%2f1g&pid=ImgRaw&r=0" class="lozad img-circle" width="40">
+                            </a>
+                            <div class="xe-comment">
+                                <a href="#" class="xe-user-name overflowClip_1">
+                                    <strong>DeepL翻译</strong>
+                                </a>
+                                <p class="overflowClip_2">使用DeepL应用程序，翻译更快捷</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
-<div class="col-sm-3">
-    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://z-lib.is/', '_blank')" data-toggle="https://z-lib.is/">
-        <div class="xe-comment-entry">
-            <a class="xe-user-img">
-                <img data-src="https://z-lib.is/favicon-32x32.svg?v=2" class="lozad img-circle" width="40">
-            </a>
-            <div class="xe-comment">
-                <a href="#" class="xe-user-name overflowClip_1">
-                    <strong>zlibrary数字图书馆</strong>
-                </a>
-                <p class="overflowClip_2">数字图书馆，免费下载图书</p>
-            </div>
-        </div>
-    </div>
-</div>
+                <div class="col-sm-3">
+                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://z-lib.is/', '_blank')" data-toggle="https://z-lib.is/">
+                        <div class="xe-comment-entry">
+                            <a class="xe-user-img">
+                                <img data-src="https://z-lib.is/favicon-32x32.svg?v=2" class="lozad img-circle" width="40">
+                            </a>
+                            <div class="xe-comment">
+                                <a href="#" class="xe-user-name overflowClip_1">
+                                    <strong>zlibrary数字图书馆</strong>
+                                </a>
+                                <p class="overflowClip_2">数字图书馆，免费下载图书</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>

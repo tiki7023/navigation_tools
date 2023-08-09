@@ -37,12 +37,17 @@ for i in range(len(sheets)):
             html = content
         else:
             html = html + '\n' +content
-    html = '<h4 class="text-gray"><i class="linecons-tag" style="margin-right: 7px;" id="'+sheets[i]+'"></i>'+sheets[i]+'</h4>'+'\n'+'<div class="row">'+'\n'+html
+    html = '\t\t\t'+'<h4 class="text-gray"><i class="linecons-tag" style="margin-right: 7px;" id="'+sheets[i]+'"></i>'+sheets[i]+'</h4>'+'\n'+'\t\t\t'+'<div class="row">'+'\n'+html
 
     result_total =result_total+'\n'+html+'\n'+'</div>'
     print(html)
 
     with open(r'.\results\{name}.txt'.format(name = sheets[i]), 'w',encoding='utf-8') as f:
         f.write(html)
-with open(r'.\results\result_total.html', 'w',encoding='utf-8') as f:
+with open(r'head.html','r',encoding='utf-8') as f:
+    head = f.read()
+with open(r'foot.html','r',encoding='utf-8') as f:
+    foot = f.read()
+result_total = head + result_total + foot
+with open(r'.\index.html', 'w',encoding='utf-8') as f:
     f.write(result_total)
