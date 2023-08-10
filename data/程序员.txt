@@ -1,0 +1,65 @@
+			<h4 class="text-gray"><i class="linecons-tag" style="margin-right: 7px;" id="程序员"></i>程序员</h4>
+			<div class="row">
+                <div class="col-sm-3">
+                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://quickref.me/', '_blank')" data-toggle="https://quickref.me/">
+                        <div class="xe-comment-entry">
+                            <a class="xe-user-img">
+                                <img data-src="https://quickref.me/images/favicon.png?v=1" class="lozad img-circle" width="40">
+                            </a>
+                            <div class="xe-comment">
+                                <a href="#" class="xe-user-name overflowClip_1">
+                                    <strong>QuickRef</strong>
+                                </a>
+                                <p class="overflowClip_2">程序员实例代码</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-3">
+                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://www.byhy.net/', '_blank')" data-toggle="https://www.byhy.net/">
+                        <div class="xe-comment-entry">
+                            <a class="xe-user-img">
+                                <img data-src="https://bpic.588ku.com/element_pic/20/06/30/f8efc6337b5427689af9838e4fdc3ec2.jpg" class="lozad img-circle" width="40">
+                            </a>
+                            <div class="xe-comment">
+                                <a href="#" class="xe-user-name overflowClip_1">
+                                    <strong>白夜黑羽</strong>
+                                </a>
+                                <p class="overflowClip_2">PyQT教程</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-3">
+                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://www.runoob.com/python/python-tutorial.html', '_blank')" data-toggle="https://www.runoob.com/python/python-tutorial.html">
+                        <div class="xe-comment-entry">
+                            <a class="xe-user-img">
+                                <img data-src="https://static.runoob.com/images/favicon.ico" class="lozad img-circle" width="40">
+                            </a>
+                            <div class="xe-comment">
+                                <a href="#" class="xe-user-name overflowClip_1">
+                                    <strong>菜鸟教程</strong>
+                                </a>
+                                <p class="overflowClip_2">多语言免费教程</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-3">
+                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://kgithub.com/', '_blank')" data-toggle="https://kgithub.com/">
+                        <div class="xe-comment-entry">
+                            <a class="xe-user-img">
+                                <img data-src="https://ts1.cn.mm.bing.net/th/id/R-C.20231e4e72c4e8d7e844cdc306e6c602?rik=n6vgG1jUdfVksg&riu=http%3a%2f%2fbpic.588ku.com%2felement_pic%2f00%2f85%2f53%2f1156e916d95db0c.jpg&ehk=4zUTD%2bTinquF%2b5oogW%2fw6ojTZaWGveIo%2fKc2ZcJ4Mbo%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" class="lozad img-circle" width="40">
+                            </a>
+                            <div class="xe-comment">
+                                <a href="#" class="xe-user-name overflowClip_1">
+                                    <strong>Github镜像站</strong>
+                                </a>
+                                <p class="overflowClip_2">加速Github访问</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
