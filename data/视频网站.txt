@@ -100,7 +100,7 @@
                     <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://www.wuji7.com/', '_blank')" data-toggle="https://www.wuji7.com/">
                         <div class="xe-comment-entry">
                             <a class="xe-user-img">
-                                <img data-src="https://cn.bing.com/images/search?view=detailV2&ccid=iyKUQEol&id=5392859FA2A1271B7EA86B70569B1407F1B583E0&thid=OIP.iyKUQEolu5F1pIm-gvaOqgHaHa&mediaurl=https%3a%2f%2fpic2.zhimg.com%2f50%2fv2-fa36c32975c7bf4555d62f9fd2629fc2_xs.jpg%3fsource%3d57bbeac9&exph=640&expw=640&q=%e6%97%a0%e6%9e%81%e5%bd%b1%e8%a7%86&simid=607992740592157048&FORM=IRPRST&ck=D8627C1F28AFC12920A6DD487931AF34&selectedIndex=10&qft=+filterui%3aaspect-square" class="lozad img-circle" width="40">
+                                <img data-src="https://img.zcool.cn/community/01564e5a449e2aa801206ed3b160c3.png@1280w_1l_2o_100sh.png" class="lozad img-circle" width="40">
                             </a>
                             <div class="xe-comment">
                                 <a href="#" class="xe-user-name overflowClip_1">

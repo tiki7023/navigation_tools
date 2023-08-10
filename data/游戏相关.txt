@@ -47,3 +47,35 @@
                         </div>
                     </div>
                 </div>
+
+                <div class="col-sm-3">
+                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://lol.qq.com/tft/#/index', '_blank')" data-toggle="https://lol.qq.com/tft/#/index">
+                        <div class="xe-comment-entry">
+                            <a class="xe-user-img">
+                                <img data-src="https://tse2-mm.cn.bing.net/th/id/OIP-C.7dorzWgrtkwhpla4l6XXQwHaHa?pid=ImgDet&rs=1" class="lozad img-circle" width="40">
+                            </a>
+                            <div class="xe-comment">
+                                <a href="#" class="xe-user-name overflowClip_1">
+                                    <strong>云顶之役</strong>
+                                </a>
+                                <p class="overflowClip_2">云顶之役主题站</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-3">
+                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://www.op.gg/', '_blank')" data-toggle="https://www.op.gg/">
+                        <div class="xe-comment-entry">
+                            <a class="xe-user-img">
+                                <img data-src="https://opgg-com-image.akamaized.net/attach/images/20190709093216.131963.png" class="lozad img-circle" width="40">
+                            </a>
+                            <div class="xe-comment">
+                                <a href="#" class="xe-user-name overflowClip_1">
+                                    <strong>OP.GG</strong>
+                                </a>
+                                <p class="overflowClip_2">英雄联盟战绩攻略查询</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
