@@ -52,7 +52,7 @@
                     <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://www.iprdb.com/', '_blank')" data-toggle="https://www.iprdb.com/">
                         <div class="xe-comment-entry">
                             <a class="xe-user-img">
-                                <img data-src="https://www.iprdb.com/favicon.ico" class="lozad img-circle" width="40">
+                                <img data-src="https://img1.dxycdn.com/2020/0510/967/3412438985875230518-14.png" class="lozad img-circle" width="40">
                             </a>
                             <div class="xe-comment">
                                 <a href="#" class="xe-user-name overflowClip_1">
