@@ -1,8 +1,11 @@
 import re
 import pandas as pd
 # 分类表
-sheets = ['常用网站','办公工具','视频网站','资源搜索','学校网站','学术网站','游戏相关','程序员','社交网站','数码跑分','导航页']
+df_all = pd.read_excel('option.xlsx',sheet_name=None)
+sheets = list(df_all.keys())
+# sheets = ['常用网站','在线工具','视频网站','资源搜索','学校网站','学术网站','游戏相关','程序员','社交网站','数码跑分','导航页']
 result_total = ''
+
 # 读取网站信息并分类保存到txt文本中
 for i in range(len(sheets)):
     df = pd.read_excel('option.xlsx',sheet_name = sheets[i],header=None)

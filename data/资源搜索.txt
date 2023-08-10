@@ -143,3 +143,35 @@
                         </div>
                     </div>
                 </div>
+
+                <div class="col-sm-3">
+                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://pan.lanzoui.com/b0cw93hih', '_blank')" data-toggle="https://pan.lanzoui.com/b0cw93hih">
+                        <div class="xe-comment-entry">
+                            <a class="xe-user-img">
+                                <img data-src="https://bpic.588ku.com/element_origin_min_pic/19/04/23/ccb94aca0ea5f54c35df8b000c052511.jpg" class="lozad img-circle" width="40">
+                            </a>
+                            <div class="xe-comment">
+                                <a href="#" class="xe-user-name overflowClip_1">
+                                    <strong>定制版本安卓软件</strong>
+                                </a>
+                                <p class="overflowClip_2">密码百分之千</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-3">
+                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://z-lib.is/', '_blank')" data-toggle="https://z-lib.is/">
+                        <div class="xe-comment-entry">
+                            <a class="xe-user-img">
+                                <img data-src="https://z-lib.is/favicon-32x32.svg?v=2" class="lozad img-circle" width="40">
+                            </a>
+                            <div class="xe-comment">
+                                <a href="#" class="xe-user-name overflowClip_1">
+                                    <strong>zlibrary数字图书馆</strong>
+                                </a>
+                                <p class="overflowClip_2">数字图书馆，免费下载图书</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>

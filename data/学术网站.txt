@@ -4,13 +4,45 @@
                     <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://www.cnki.net/', '_blank')" data-toggle="https://www.cnki.net/">
                         <div class="xe-comment-entry">
                             <a class="xe-user-img">
-                                <img data-src="https://ts1.cn.mm.bing.net/th/id/R-C.835fa09c0c991d10889d6cdcd5509f31?rik=6284QdJz8brmgA&pid=ImgRaw&r=0" class="lozad img-circle" width="40">
+                                <img data-src="https://p1.ssl.qhimg.com/t01262bd40936e6aa5b.png" class="lozad img-circle" width="40">
                             </a>
                             <div class="xe-comment">
                                 <a href="#" class="xe-user-name overflowClip_1">
                                     <strong>知网</strong>
                                 </a>
-                                <p class="overflowClip_2">擅长吸血的学术平台</p>
+                                <p class="overflowClip_2">中国知网知识发现网络平台</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-3">
+                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://vpn.jlu.edu.cn/https/44696469646131313237446964696461bd6feb2600c6a01e8255e278/', '_blank')" data-toggle="https://vpn.jlu.edu.cn/https/44696469646131313237446964696461bd6feb2600c6a01e8255e278/">
+                        <div class="xe-comment-entry">
+                            <a class="xe-user-img">
+                                <img data-src="https://p1.ssl.qhimg.com/t01262bd40936e6aa5b.png" class="lozad img-circle" width="40">
+                            </a>
+                            <div class="xe-comment">
+                                <a href="#" class="xe-user-name overflowClip_1">
+                                    <strong>知网VPN</strong>
+                                </a>
+                                <p class="overflowClip_2">学校知网入口</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-3">
+                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://vpn.jlu.edu.cn/https/44696469646131313237446964696461bd6feb2614cda918ca48e465d26b96f77fb15b71/wos/alldb/basic-search', '_blank')" data-toggle="https://vpn.jlu.edu.cn/https/44696469646131313237446964696461bd6feb2614cda918ca48e465d26b96f77fb15b71/wos/alldb/basic-search">
+                        <div class="xe-comment-entry">
+                            <a class="xe-user-img">
+                                <img data-src="https://www.umass.edu/ials/sites/default/files/web-of-science.png" class="lozad img-circle" width="40">
+                            </a>
+                            <div class="xe-comment">
+                                <a href="#" class="xe-user-name overflowClip_1">
+                                    <strong>web-of-science</strong>
+                                </a>
+                                <p class="overflowClip_2">论文查询入口</p>
                             </div>
                         </div>
                     </div>
@@ -27,22 +59,6 @@
                                     <strong>知嘟嘟</strong>
                                 </a>
                                 <p class="overflowClip_2">专利查询下载平台</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-sm-3">
-                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://simpletex.cn/ai/latex_ocr', '_blank')" data-toggle="https://simpletex.cn/ai/latex_ocr">
-                        <div class="xe-comment-entry">
-                            <a class="xe-user-img">
-                                <img data-src="https://simpletex.cn/simpletex.ico" class="lozad img-circle" width="40">
-                            </a>
-                            <div class="xe-comment">
-                                <a href="#" class="xe-user-name overflowClip_1">
-                                    <strong>公式识别</strong>
-                                </a>
-                                <p class="overflowClip_2">识别公式，论文小助手</p>
                             </div>
                         </div>
                     </div>
