@@ -191,3 +191,19 @@
                         </div>
                     </div>
                 </div>
+
+                <div class="col-sm-3">
+                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('http://tvfan.xxooo.cf/', '_blank')" data-toggle="http://tvfan.xxooo.cf/">
+                        <div class="xe-comment-entry">
+                            <a class="xe-user-img">
+                                <img data-src="https://ts1.cn.mm.bing.net/th/id/R-C.4fab02a4aac42742d1d4c67fc8f2af49?rik=I7T7qVuFlPUEcw&riu=http%3a%2f%2fpic.616pic.com%2fys_bnew_img%2f00%2f08%2f24%2fnUVxaYEsS9.jpg&ehk=qLqYUDekI%2fag9nU7VuaIpNtUbriAmdJaZiXxgh0sjFA%3d&risl=&pid=ImgRaw&r=0" class="lozad img-circle" width="40">
+                            </a>
+                            <div class="xe-comment">
+                                <a href="#" class="xe-user-name overflowClip_1">
+                                    <strong>玩偶哥哥</strong>
+                                </a>
+                                <p class="overflowClip_2">4K高清</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>

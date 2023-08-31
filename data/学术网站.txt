@@ -17,38 +17,6 @@
                 </div>
 
                 <div class="col-sm-3">
-                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://vpn.jlu.edu.cn/https/44696469646131313237446964696461bd6feb2600c6a01e8255e278/', '_blank')" data-toggle="https://vpn.jlu.edu.cn/https/44696469646131313237446964696461bd6feb2600c6a01e8255e278/">
-                        <div class="xe-comment-entry">
-                            <a class="xe-user-img">
-                                <img data-src="https://p1.ssl.qhimg.com/t01262bd40936e6aa5b.png" class="lozad img-circle" width="40">
-                            </a>
-                            <div class="xe-comment">
-                                <a href="#" class="xe-user-name overflowClip_1">
-                                    <strong>知网VPN</strong>
-                                </a>
-                                <p class="overflowClip_2">学校知网入口</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-sm-3">
-                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://vpn.jlu.edu.cn/https/44696469646131313237446964696461bd6feb2614cda918ca48e465d26b96f77fb15b71/wos/alldb/basic-search', '_blank')" data-toggle="https://vpn.jlu.edu.cn/https/44696469646131313237446964696461bd6feb2614cda918ca48e465d26b96f77fb15b71/wos/alldb/basic-search">
-                        <div class="xe-comment-entry">
-                            <a class="xe-user-img">
-                                <img data-src="https://www.umass.edu/ials/sites/default/files/web-of-science.png" class="lozad img-circle" width="40">
-                            </a>
-                            <div class="xe-comment">
-                                <a href="#" class="xe-user-name overflowClip_1">
-                                    <strong>web-of-science</strong>
-                                </a>
-                                <p class="overflowClip_2">论文查询入口</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-sm-3">
                     <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://www.iprdb.com/', '_blank')" data-toggle="https://www.iprdb.com/">
                         <div class="xe-comment-entry">
                             <a class="xe-user-img">
@@ -75,6 +43,22 @@
                                     <strong>SCI-hub</strong>
                                 </a>
                                 <p class="overflowClip_2">论文下载网站</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-3">
+                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('http://www.seek68.org/index.html', '_blank')" data-toggle="http://www.seek68.org/index.html">
+                        <div class="xe-comment-entry">
+                            <a class="xe-user-img">
+                                <img data-src="https://pic3.zhimg.com/v2-80bc76da7d3c1379b75274dab1ea1dbe_b.jpg" class="lozad img-circle" width="40">
+                            </a>
+                            <div class="xe-comment">
+                                <a href="#" class="xe-user-name overflowClip_1">
+                                    <strong>seek68</strong>
+                                </a>
+                                <p class="overflowClip_2">谷歌学术镜像站</p>
                             </div>
                         </div>
                     </div>
